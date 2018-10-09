@@ -4,6 +4,7 @@
 ## How can i use this package?
 
 ``` 
-Just Add Mocha Component To Any UI Element (Button , Text etc..) . You Can Play With The Values To Make Your Animation.
+Just Add Mocha Component To Any UI Element (Button , Text etc..) 
+You Can Play With The Values To Make Your Animation.
 ```  
 ![](mochaInt.gif)
