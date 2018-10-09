@@ -4,6 +4,6 @@
 ## How can i use this package?
 
 ``` 
-Just add Mocha Component to any UI element(Button,Text etc..)
+Just Add Mocha Component To Any UI Element (Button , Text etc..)
 ```  
 ![](mochaInt.gif)
