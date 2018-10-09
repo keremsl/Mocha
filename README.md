@@ -3,4 +3,7 @@
 
 ## How can i use this package?
 
-''' ASDDAS '''  ![](mochaInt.gif)
+``` 
+Just add Mocha Component to any UI element(Button,Text etc..)
+```  
+![](mochaInt.gif)
