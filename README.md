@@ -1,5 +1,5 @@
 # Mocha
-Unity UI Animation Tool
+Mocha is a Unity Extension.Mocha allows you can create smooth,simple UI animations in Unity.This package includes full C# Code of this project.
 ```
 Unity
 ```
