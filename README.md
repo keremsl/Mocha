@@ -4,7 +4,7 @@
 ## How can i use this package?
 
 ``` 
-Just Add Mocha Component To Any UI Element (Button , Text etc..) 
+Just Add Mocha Component To Any Element That Have RectTransform Component (Button , Text , UI Groups etc..) 
 You Can Play With The Values To Make Your Animation.
 ```  
 ![](mochaInt.gif)
