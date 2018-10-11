@@ -13,8 +13,16 @@ You Can Play With The Values To Make Your Animation.
 ### API
 To control Mocha Component via script.You can add:
 ```
-using Bhorgames.Mocha;
+using BhorGames.Mocha;
 ``` 
 
 
-* isPlaying -> To Control
+* **isPlaying** -> Check If Animation Playing Right Now
+* **Play()** -> Play Animation
+
+### TODO
+
+- [ ] Reverse Play
+- [ ] More Control Via Script
+- [ ] Mix All Type Animations Via Script
+- [ ] Performance Optimizations
