@@ -9,3 +9,12 @@ You Can Play With The Values To Make Your Animation.
 (Please Use Animate Button In Runtime)
 ```  
 ![](mochaInt.gif)
+
+### API
+To control Mocha Component via script.You can add:
+```
+using Bhorgames.Mocha;
+``` 
+
+
+* isPlaying -> To Control
