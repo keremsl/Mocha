@@ -19,7 +19,7 @@ using BhorGames.Mocha;
 
 * **isPlaying** -> Check If Animation Playing Right Now
 * **Play()** -> Play Animation
-
+* **ReversePlay()** -> Play Animation From Reverse
 ### TODO
 
 - [x] Reverse Play
