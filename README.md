@@ -22,7 +22,7 @@ using BhorGames.Mocha;
 
 ### TODO
 
-- [ ] Reverse Play
-- [ ] More Control Via Script
+- [x] Reverse Play
+- [x] More Control Via Script
 - [ ] Mix All Type Animations Via Script
 - [ ] Performance Optimizations
